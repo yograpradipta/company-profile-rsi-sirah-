@@ -448,7 +448,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   width: auto;
   height: auto;
-  background: rgba(63, 187, 192, 0.8);
+  /* background: rgba(63, 187, 192, 0.8); */
+  background:   rgb(73 192 63 / 0.8);
   border-radius: 50px;
   transition: 0.3s;
   color: rgba(255, 255, 255, 0.5);
