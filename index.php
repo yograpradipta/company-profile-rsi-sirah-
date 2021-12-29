@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Medicio Bootstrap Template - Index</title>
+  <title>SitiRahmah Islamic Hospital</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logositirahmah.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -65,7 +65,8 @@
     <!-- End Counts Section -->
 
     <!-- ======= Features Section ======= -->
-    <?php include("features.php"); ?><!-- End Features Section -->
+    <?php include("features.php"); ?>
+    <!-- End Features Section -->
 
     <!-- ======= Services Section ======= -->
     <?php include("services.php"); ?>

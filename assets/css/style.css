@@ -398,7 +398,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero .container {
   text-align: center;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.6);
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 50px;
@@ -418,7 +418,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero p {
   margin: 0 auto 30px auto;
-  color: #555555;
+  color: #000000;
 }
 #hero .carousel-inner .carousel-item {
   transition-property: opacity;
@@ -621,6 +621,7 @@ section {
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
   z-index: 1;
+  text-align: center;
 }
 .featured-services .icon-box::before {
   content: "";
