@@ -171,17 +171,21 @@ h1, h2, h3, h4, h5, h6 {
 .appointment-btn {
   margin-left: 25px;
   background: #00A859;
+  border: #fff solid 2px;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 14px;
+  font-weight: bold;
   display: inline-block;
 }
 .appointment-btn:hover {
-  background: #65c9cd;
-  color: #fff;
+  background: #ffff ;
+  color: #00A859;
+  border: #00A859 solid 2px;
+  font-weight: bold;
 }
 @media (max-width: 768px) {
   .appointment-btn {
@@ -791,6 +795,29 @@ section {
   min-height: 400px;
 }
 
+.btn-siaraja .cta-btn{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 35px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #00A859;
+  color: #00A859;
+}
+.btn-siaraja .cta-btn:hover{
+  border: 2px solid #00A859;
+  background: #00A859;
+  color: #FFF;
+}
+
+.item-center{  
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1184,6 +1211,122 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Artikel
+--------------------------------------------------------------*/
+.artikel .box {
+  padding: 20px;
+  background: #fff;
+  /* text-align: center; */
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+}
+.artikel h3 {
+  font-weight: 400;
+  margin: -20px -20px 20px -20px;
+  padding: 20px 15px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #777777;
+  background: #f8f8f8;
+}
+.artikel h4 {
+  color: #00A859;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.artikel h4 sup {
+  font-size: 20px;
+  top: -15px;
+  left: -3px;
+}
+.artikel h4 span {
+  color: #bababa;
+  font-size: 16px;
+  font-weight: 300;
+}
+.artikel ul {
+  padding: 0;
+  list-style: none;
+  color: #444444;
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+}
+.artikel ul li {
+  padding-bottom: 16px;
+}
+.artikel ul i {
+  color: #00A859;
+  font-size: 18px;
+  padding-right: 4px;
+}
+.artikel ul .na {
+  color: #ccc;
+  text-decoration: line-through;
+}
+.artikel .btn-wrap {
+  margin: 20px -20px -20px -20px;
+  padding: 20px 15px;
+  background: #f8f8f8;
+  text-align: center;
+}
+.artikel .btn-buy {
+  background: #00A859;
+  display: inline-block;
+  padding: 8px 35px 10px 35px;
+  border-radius: 4px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  border: #ffff solid 1px;
+  transition: 0.3s;
+}
+.artikel .btn-buy:hover {
+  background: #ffff;
+  border: #00A859 solid 1px;
+  color: #00A859;
+}
+.artikel .featured h3 {
+  color: #fff;
+  background: #00A859;
+}
+.artikel .advanced {
+  width: 200px;
+  position: absolute;
+  top: 18px;
+  right: -68px;
+  transform: rotate(45deg);
+  z-index: 1;
+  font-size: 14px;
+  padding: 1px 0 3px 0;
+  background: #00A859;
+  color: #fff;
+}
+.artikel-item{
+  overflow: auto;
+}
+
+.artikel-item img{
+  width: -webkit-fill-available;
+}
+
+.artikel-item .btn-wrap {
+  margin: 20px -20px -20px -20px;
+  padding: 20px 15px;
+  background: none !important;
+}
+.item-justify{
+  text-align: justify;
+}
+/*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
 .pricing .box {
@@ -1569,3 +1712,9 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
+/* start poli */
+.poli{
+  margin-top: 112px;
+}
+/* end poli */

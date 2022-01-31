@@ -4,33 +4,33 @@
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="fas fa-user-md"></i></div>
-              <h4 class="title"><a href="">Poliklinik</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-            </div>
+              <div class="icon"><a href="?page=poli"><i class="fas fa-user-md"></a></i></div>
+              <h4 class="title"><a href="?page=poli">Poliklinik</a></h4>
+                <p class="description">memberikan pelayanan pemeriksaan dan/atau tindakan medis tertentu oleh Dokter Spesialis.</p>
+              </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="fas fa-procedures"></i></div>
               <h4 class="title"><a href="">Rawat Inap</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p class="description">Pilihan Kamar Rawatan yang nyaman dengan Pilihan Kelas yang sesuai dengan selera anda.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="fas fa-heartbeat"></i></div>
-              <h4 class="title"><a href="">Penunjang</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <div class="icon"><i class="fas fa-ambulance"></i></div>
+              <h4 class="title"><a href="">UGD</a></h4>
+              <p class="description">Memberikan pelayanan gawat darurat yang cepat, tepat dan cermat serta terjangkau sesuai kebutuhan masyarakat </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="fas fa-dna"></i></div>
-              <h4 class="title"><a href="">Medical Checkup</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4 class="title"><a href="">Medical Checkup(MCU)</a></h4>
+              <p class="description">Pelayanan pemeriksaan kesehatan yang lengkap dengan peralatan medis terkini dan Dokter yang Ahli</p>
             </div>
           </div>
 

@@ -2,9 +2,9 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>In an emergency? Need help now?</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn scrollto" href="#appointment">Make an Make an Appointment</a>
+          <h3>dapat nomor antrian? Tanpa harus datang?</h3>
+          <p> Rumah Sakit Islam Siti Rahmah menyediakan layanan SIARAJA yang memudahkan pasien dalam melakukan pendaftaran,<br> memantau antrian hingga cek jadwal dokter tanpa harus datang ke Rumah Sakit  </p>
+          <a class="cta-btn scrollto" href="#siaraja">lihat Layanan Siaraja</a>
         </div>
 
       </div>

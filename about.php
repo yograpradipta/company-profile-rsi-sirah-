@@ -1,26 +1,27 @@
-<section id="about" class="about faq section-bg">
+<section id="about" class="about faq ">
   <div class="container" data-aos="fade-up">
 
-    <h2>About Us</h2>
-    <!-- <p>Rumah Sakit Islam Siti Rahmah, Padang merupakan salah satu Rumah Sakit Swasta 
-            yang melaksanakan Pelayanan Kesehatan secara menyeluruh dan paripurna 
-            serta merupakan Rumah Sakit Swasta dengan peralatan medis terlengkap di wilayah Sumatra Barat. 
-            Meningkatnya tuntutan masyarakat akan pelayanan kesehatan yang prima, sejalan dengan peningkatan pola hidup dan daya beli masyarakat, 
-            maka mereka memungkinkan untuk memilih sarana pelayanan Rumah Sakit yang paling dapat memenuhi kebutuhan dan harapannya. 
-            Rumah Sakit Islam Siti Rahmah, Padang berupaya untuk menyediakan Fasilitas dan Pelayanan Prima sesuai dengan yang diharapkan masyarakat 
-            tersebut. <br>
-            Rumah Sakit Islam Siti Rahmah Padang dibangun pada awal tahun 90an oleh Pimpinan Yayasan Baiturrahmah, 
-            Bapak H. Amran Sutan Sidi Sulaiman. Rumah sakit ini selesai dibangun pada tahun 1997 dan mulai beroperasi pada tanggal 19 Juli 2004. 
-            Rumah sakit ini dibangun bertujuan untuk memenuhi kebutuhan masyarakat Sumatra Barat secara keseluruhan agar dapat berobat di Padang daripada berobat ke luar negeri. 
-            Tujuan lainnya, ke depan RSI Siti Rahmah akan dipersiapkan sebagai Rumah Sakit Pendidikan untuk menunjang kegiatan pendidikan dan penelitian Fakultas Kedokteran Universitas Baiturrahmah. 
-            Pada tanggal 13 Desember 2005, telah diterbitkan SK Menteri Kesehatan RI No. YM.02.3.5.5400, tentang Izin penyelenggaraan RSI. Siti Rahmah, Padang. 
-            Saat ini RSI Siti Rahmah berada dibawah Yayasan Rumah Sakit Islam Siti Rahmah, di bawah pimpinan Ketua Yayasan Hj. Maizarnis.</p> -->
-    <!-- </div> -->
-
+    <div class="section-title">
+      <h2 style="margin:0">Tentang Kami</h2>
+      <!-- <p>Rumah Sakit Islam Siti Rahmah, Padang merupakan salah satu Rumah Sakit Swasta 
+              yang melaksanakan Pelayanan Kesehatan secara menyeluruh dan paripurna 
+              serta merupakan Rumah Sakit Swasta dengan peralatan medis terlengkap di wilayah Sumatra Barat. 
+              Meningkatnya tuntutan masyarakat akan pelayanan kesehatan yang prima, sejalan dengan peningkatan pola hidup dan daya beli masyarakat, 
+              maka mereka memungkinkan untuk memilih sarana pelayanan Rumah Sakit yang paling dapat memenuhi kebutuhan dan harapannya. 
+              Rumah Sakit Islam Siti Rahmah, Padang berupaya untuk menyediakan Fasilitas dan Pelayanan Prima sesuai dengan yang diharapkan masyarakat 
+              tersebut. <br>
+              Rumah Sakit Islam Siti Rahmah Padang dibangun pada awal tahun 90an oleh Pimpinan Yayasan Baiturrahmah, 
+              Bapak H. Amran Sutan Sidi Sulaiman. Rumah sakit ini selesai dibangun pada tahun 1997 dan mulai beroperasi pada tanggal 19 Juli 2004. 
+              Rumah sakit ini dibangun bertujuan untuk memenuhi kebutuhan masyarakat Sumatra Barat secara keseluruhan agar dapat berobat di Padang daripada berobat ke luar negeri. 
+              Tujuan lainnya, ke depan RSI Siti Rahmah akan dipersiapkan sebagai Rumah Sakit Pendidikan untuk menunjang kegiatan pendidikan dan penelitian Fakultas Kedokteran Universitas Baiturrahmah. 
+              Pada tanggal 13 Desember 2005, telah diterbitkan SK Menteri Kesehatan RI No. YM.02.3.5.5400, tentang Izin penyelenggaraan RSI. Siti Rahmah, Padang. 
+              Saat ini RSI Siti Rahmah berada dibawah Yayasan Rumah Sakit Islam Siti Rahmah, di bawah pimpinan Ketua Yayasan Hj. Maizarnis.</p> -->
+      <!-- </div> -->
+    </div>
 
     <div class="row">
       <div class="col-lg-6" data-aos="fade-right">
-        <img src="assets/img/21.png" class="img-fluid" alt="">
+        <img src="assets/img/33.jpg" class="img-fluid" alt="">
       </div>
       <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left">
         <h4>Visi</h4>

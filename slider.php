@@ -6,7 +6,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/jobs.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/sejarah2.jpg)">
           <!-- <div class="container">
             <h2>Welcome to <span>Medicio</span></h2>
             <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
@@ -15,7 +15,7 @@
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slideruangan.png)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-4.JPG)">
           <!-- <div class="container">
             <h2>PILIHAN KAMAR RAWATAN</h2>
             <p> Kamar rawatan yang nyaman dengan Pilihan Kelas yang sesuai dengan selera anda.</p>
@@ -24,7 +24,7 @@
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slidealat.png)">
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-5.JPG)">
           <!-- <div class="container">
             <h2>DIDUKUNG OLEH PERALATAN MEDIS YANG CANGGIH</h2>
             <p>Merupakan Rumah Sakit yang memiliki peralatan kesehatan
