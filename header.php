@@ -12,7 +12,7 @@
           <li><a class="nav-link scrollto" href="?page=#services">Layanan</a></li>
           <!-- <li><a class="nav-link scrollto" href="#departments">Departement</a></li> -->
           <li><a class="nav-link scrollto" href="?page=#doctors">Dokter</a></li>
-          <li><a class="nav-link scrollto" href="?page=#article">Artikel</a></li>
+          <!-- <li><a class="nav-link scrollto" href="?page=#article">Artikel</a></li> -->
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>

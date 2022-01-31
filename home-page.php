@@ -53,7 +53,7 @@
     <?php //include("pricing.php"); ?>
     <!-- End Pricing Section -->
     <!-- start artikel -->
-    <?php include("artikel.php"); ?>
+    <?php //include("artikel.php"); ?>
     <!-- end artikel -->
 
     <!-- ======= Frequently Asked Questioins Section ======= -->
