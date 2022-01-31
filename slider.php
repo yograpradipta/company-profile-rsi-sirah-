@@ -6,30 +6,32 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
-          <div class="container">
+        <div class="carousel-item active" style="background-image: url(assets/img/sejarah2.jpg)">
+          <!-- <div class="container">
             <h2>Welcome to <span>Medicio</span></h2>
             <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
             <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg)">
-          <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-4.JPG)">
+          <!-- <div class="container">
+            <h2>PILIHAN KAMAR RAWATAN</h2>
+            <p> Kamar rawatan yang nyaman dengan Pilihan Kelas yang sesuai dengan selera anda.</p>
             <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div>
+          </div> -->
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
-          <div class="container">
-            <h2>Sequi ea ut et est quaerat</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide-5.JPG)">
+          <!-- <div class="container">
+            <h2>DIDUKUNG OLEH PERALATAN MEDIS YANG CANGGIH</h2>
+            <p>Merupakan Rumah Sakit yang memiliki peralatan kesehatan
+              terlengkap dan tercanggih.
+            </p> 
             <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div>
+          </div>-->
         </div>
 
       </div>
